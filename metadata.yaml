@@ -1,0 +1,38 @@
+_repo: An-Englishwoman-s-Love-Letters_15941
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Housman, Laurence
+    aliases:
+    - Housman, Lawrence
+    - Bunny, Benjamin
+    birthdate: 1865
+    deathdate: 1959
+    gutenberg_agent_id: '1218'
+    url: http://www.gutenberg.org/2009/agents/1218
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Housman
+description: "An Englishwoman's Love-letters is a 1900 novel by Laurence Housman,\
+  \ initially published anonymously. It was a scandal in its time due to its frankness,\
+  \ which excitement turned to disappointment as the public learned the author was\
+  \ no Englishwoman but Housman. One year later, in 1901, a parody of the book, entitled\
+  \ Another Englishwoman's Love-letters and written by Barry Pain, was published by\
+  \ T. Fisher Unwin.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15941'
+  wikidata: Q4749916
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: An Englishwoman's Love-Letters
+url: http://www.gutenberg.org/ebooks/15941
+wikipedia:
+- https://en.wikipedia.org/wiki/An_Englishwoman%27s_Love-letters
